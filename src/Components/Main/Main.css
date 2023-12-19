@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:#F2F1EB;
+}
+    
+  
+
+.Box{
+    border: 2px solid black;
+    /* outline: #4CAF50 solid 10px; */
+    margin: auto;  
+    padding: 20px;
+    background-color:#F2F1EB;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 800px;
+    border-radius: 50px;
+    border-color: #52D3D8;
+}
+.onebox{
+    border: 2px solid black;
+    width:280px;
+    height:700px;
+    padding: 20px;
+    background-color: white;
+   margin-left: 20px;
+   border-radius: 30px;
+   border: none;
+   margin-top: 33px;
+}
+.twobutton{
+ background-color: white; 
+ margin-left: 5px;
+ 
+ 
+ 
+   
+}
+.button {
+    background-color:#F2F1EB;
+    border: none;
+    
+    padding: 15px 32px;
+    
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 60px;
+    width: 110px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 15px;
+    border: none;
+   
+   
+}
+.Items,h4{
+    background-color: white;
+    margin-top: 30px;
+    color:#52D3D8 ;
+}
+.groupitems,ul{
+    background-color: white;
+    margin-left: 18px;
+    margin-top: 15px;
+    cursor: pointer;
+    
+    
+}
+.groupitems,img{
+    height: 20px;
+    background-color: white;
+    cursor: pointer;
+    
+}
+.allbox{
+    display: flex;
+    margin-right: 25px;
+    
+}
+.raguu,button9{
+margin-top: 30px;
+margin-left: 10px;
+height: 50px;
+width: 150px;
+border-radius: 10px;
+border: none;
+padding: 20px 30px;
+border-radius: 23px;
+}
+.Image{
+    background-color: white;
+    margin-top: 350px;
+    margin-left: 20px;
+
+}
+.Image,uu{
+    height: 50px;
+    width: 140px;
+    border-radius: 15px;
+    border: none;
+}
+/* .Image,img{
+    display: flex;
+    padding-top: 10px;
+    height: 50px;
+    gap: 10px;
+    border-radius:30% ;
+    
+   
+} */
+
+/* box second */
+.twobox {
+    border: 2px solid black;
+    width:650px;
+    height:700px;
+    padding: 20px;
+    background-color: white;
+   margin-left: 20px;
+   border-radius: 30px;
+   border: none;
+   margin-top: 33px;
+   
+   
+    
+  }
+  .threebox{
+    border: 2px solid black;
+    width:350px;
+    height:700px;
+    padding: 20px;
+    background-color: white;
+   margin-left: 20px;
+   border-radius: 30px;
+   border: none;
+   margin-top: 33px;
+  }
+

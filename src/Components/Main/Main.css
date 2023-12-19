@@ -90,7 +90,7 @@ border: none;
 padding: 20px 30px;
 border-radius: 23px;
 }
-.Image{
+/* .Image{
     background-color: white;
     margin-top: 350px;
     margin-left: 20px;
@@ -102,15 +102,9 @@ border-radius: 23px;
     border-radius: 15px;
     border: none;
 }
-/* .Image,img{
-    display: flex;
-    padding-top: 10px;
-    height: 50px;
-    gap: 10px;
-    border-radius:30% ;
+/* .Image,img{ */
     
-   
-} */
+
 
 /* box second */
 .twobox {

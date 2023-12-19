@@ -47,11 +47,7 @@ const Main = () => {
               </div>
             </div>
             
-            <div className="Image">
-            <button className="uu" ></button>
-            {/* <img src="https://global-uploads.webflow.com/625593a881b8ebd169835ca5/64fa3fb851d65e51f39a0668_Rectangle%202900.jpg"></img> */}
-
-            </div>
+            
            
           </div>
           
